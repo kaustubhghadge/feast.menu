@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="81px" viewBox="0 0 95 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-6.43181818%" y1="-79.8978365%" x2="95.8622159%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#BF0000" offset="0%"></stop>
+            <stop stop-color="#75009E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="restaurant-page" transform="translate(-666.000000, -1534.000000)">
+            <g id="Group-5" transform="translate(664.000000, 1530.000000)">
+                <path d="M38,72 C56.7776815,72 72,56.8738967 72,38.2149027 C72,19.5559087 47.6333333,48.3504319 38,16.8176744 C28.3666667,-14.7150831 4,19.5559087 4,38.2149027 C4,56.8738967 19.2223185,72 38,72 Z" id="Oval" fill="url(#linearGradient-1)" transform="translate(38.000000, 38.000000) rotate(-83.000000) translate(-38.000000, -38.000000) "></path>
+                <path d="M68.2772107,83.3117811 C87.0548922,83.3117811 102.277211,68.1856778 102.277211,49.5266838 C102.277211,30.8676898 86.9667451,54.6729791 77.3334118,23.1402216 C72.7973806,8.29244626 55.9288027,16.2850893 45.0422234,26.060693 C32.8085805,37.0458923 14.2432566,47.602323 40.8062796,50.1035044 C91.007434,54.8304586 49.4995292,83.3117811 68.2772107,83.3117811 Z" id="Oval-Copy" fill="url(#linearGradient-1)" opacity="0.447056362" transform="translate(64.762418, 49.125118) rotate(115.000000) translate(-64.762418, -49.125118) "></path>
+                <g id="Group" transform="translate(29.000000, 14.000000)" fill="#FFFFFF">
+                    <path d="M25.9971239,6 C11.6396018,6 0,17.6396018 0,31.9971239 C0,46.3603982 11.6396018,58 25.9971239,58 C40.3603982,58 52,46.3603982 52,31.9971239 L25.9971239,31.9971239 L25.9971239,6 Z" id="Fill-1"></path>
+                    <path d="M32,0 L32,26 L58,26 C58,11.6408895 46.3616857,0 32,0 Z" id="Fill-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
